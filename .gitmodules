@@ -1,3 +1,0 @@
-[submodule "repo-pybnn"]
-	path = repo-pybnn
-	url = https://github.com/yucenli/pybnn.git
