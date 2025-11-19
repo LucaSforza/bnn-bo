@@ -5,3 +5,4 @@ from .hmc import HMC
 from .ibnn import MultiTaskIBNN, SingleTaskIBNN
 from .laplace import LaplaceBNN
 from .sghmc import SGHMCModel
+from .transformer import *
